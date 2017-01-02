@@ -1,5 +1,6 @@
 # Tick-Tack-Toe (Android)
 ![alt tag](https://github.com/shrobon/Tick-Tack-Toe/blob/master/snapshot.PNG)
+
 I was building this app, while participating in "The Complete Android N Developer Course" by Rob Percival @ Udemy.com
 
 ## License
